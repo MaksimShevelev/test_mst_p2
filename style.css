@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: black;
+    font-family: Arial, sans-serif;
+  }
+
+  svg {
+    width: 100%;
+    height: auto;
+    max-width: 1600px; 
+    background: black;
+  }
+
+
+  video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+
+  text {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    fill: white;
+    font-size: 0.6rem;
+  }
+
+  .back {
+    fill: black;
+  }
+
+  .mask-block {
+    fill: black;
+  }
+
